@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.segments.json
+*_chunks/
+*.log
+.git/
+.gitdb/
+repo-meta/
+test-normal-dir/
+*.tree
+create_git_objects.py
